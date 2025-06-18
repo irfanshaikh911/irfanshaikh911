@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets\Irfan Shaikh ML Enthusiast  Python Developer  Exploring GenAI, Deep Learning & LLMs (1).png" alt="Irfan Shaikh Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Irfan Shaikh</h1>
 <h3 align="center">🚀 ML Enthusiast | Python Developer | Exploring GenAI, Deep Learning & LLMs</h3>
 
@@ -9,12 +13,12 @@
 
 ### 💡 About Me
 
-- 🤖 Building smart things with code — ML, GenAI, LLMs  
-- 🧠 Passionate about AI, Deep Learning, NLP, and Transformers  
-- 🛠️ Tech Stack: Python, PyTorch, TensorFlow, Hugging Face, Pandas, NumPy  
-- 🌱 Currently diving deeper into LLM fine-tuning & AI-powered apps  
-- 📊 Active on [Kaggle](https://www.kaggle.com/irfan911) sharing notebooks & insights  
-- 💬 Ask me about machine learning projects, GenAI, or open-source  
+- 🤖 Building smart things with code — ML, GenAI, LLMs
+- 🧠 Passionate about AI, Deep Learning, NLP, and Transformers
+- 🛠️ Tech Stack: Python, PyTorch, TensorFlow, Hugging Face, Pandas, NumPy
+- 🌱 Currently diving deeper into LLM fine-tuning & AI-powered apps
+- 📊 Active on [Kaggle](https://www.kaggle.com/irfan911) sharing notebooks & insights
+- 💬 Ask me about machine learning projects, GenAI, or open-source
 - 🎯 Goal: Create AI solutions that make real-world impact
 
 ---
@@ -50,9 +54,9 @@
 
 ### 🚀 Latest Projects
 
-- 🌍 **Machine Translation** – Built from scratch using PyTorch Transformer, translating English to Hindi  
-- 🖼️ **Image Captioning** – Deep learning model to generate captions from uploaded images using CNN + RNN  
-- 💧 **Water Potability Detection (Full Stack)** – ML backend + full web UI for classifying drinkable water  
+- 🌍 **Machine Translation** – Built from scratch using PyTorch Transformer, translating English to Hindi
+- 🖼️ **Image Captioning** – Deep learning model to generate captions from uploaded images using CNN + RNN
+- 💧 **Water Potability Detection (Full Stack)** – ML backend + full web UI for classifying drinkable water
 - 🧾 **Autogradr** – AI-powered auto-grading system with rubric-based scoring, feedback, and teacher review
 
 ---
@@ -60,4 +64,9 @@
 > “Code like a scientist. Think like an artist. Build like an engineer.” 💡
 
 ---
+
 <img src="first_solve_the_problem__then_in_an_elegant_dark_theme.png" width="250" align="center">
+
+<p align="center">
+  <img src="Assets\first_solve_the_problem__then_in_an_elegant_dark_theme.png" alt="Irfan Shaikh Footer Banner" />
+</p>

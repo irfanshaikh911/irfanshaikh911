@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Irfan Shaikh</h1>
+<h3 align="center">ML Enthusiast | Python Developer | Exploring GenAI, Deep Learning & LLMs</h3>
 
-<!--
-**irfanshaikh911/irfanshaikh911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💡 **About Me**
+- 🤖 Building smart things with code
+- 🧠 Passionate about GenAI, Deep Learning, LLMs
+- 🛠️ Skilled in: PyTorch, TensorFlow, Hugging Face, Pandas, NumPy
+- 🌱 Constantly learning and exploring new technologies
+- 💬 Ask me about Machine Learning, AI projects, or open source!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="47%"/>
+</p>
+
+---
+
+📫 **Connect With Me**
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Email: your.email@example.com

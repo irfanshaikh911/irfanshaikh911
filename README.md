@@ -50,10 +50,10 @@
 
 ### 🚀 Latest Projects
 
-- 🧾 **Autogradr** – AI-powered auto-grading system for engineering colleges  
-- 🌍 **Machine Translation** – English to Hindi translator using Transformer architecture  
-- 🍕 **Pizza Price Predictor** – Predict pizza prices using linear regression with feature selection  
-- 📊 **Zomato & Superstore Analysis** – Data analysis and prediction with Python & ML
+- 🌍 **Machine Translation** – Built from scratch using PyTorch Transformer, translating English to Hindi  
+- 🖼️ **Image Captioning** – Deep learning model to generate captions from uploaded images using CNN + RNN  
+- 💧 **Water Potability Detection (Full Stack)** – ML backend + full web UI for classifying drinkable water  
+- 🧾 **Autogradr** – AI-powered auto-grading system with rubric-based scoring, feedback, and teacher review
 
 ---
 

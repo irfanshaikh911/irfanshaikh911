@@ -65,8 +65,8 @@
 
 ---
 
-<img src="first_solve_the_problem__then_in_an_elegant_dark_theme.png" width="250" align="center">
+<!-- <img src="first_solve_the_problem__then_in_an_elegant_dark_theme.png" width="250" align="center"> -->
 
 <p align="center">
-  <img src="Assets\first_solve_the_problem__then_in_an_elegant_dark_theme.png" alt="Irfan Shaikh Footer Banner" />
+  <img src="Assets\first_solve_the_problem__then_in_an_elegant_dark_theme.png" alt="Irfan Shaikh Footer Banner" width="250" />
 </p>

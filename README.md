@@ -21,5 +21,6 @@
 ---
 
 📫 **Connect With Me**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/irfan-shaikh911/)
+- Kaggle: [Your Kaggle](https://www.kaggle.com/irfan911)
+- Email: sk1309.irfan@gmail.com

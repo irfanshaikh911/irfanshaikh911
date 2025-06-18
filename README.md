@@ -60,4 +60,4 @@
 > “Code like a scientist. Think like an artist. Build like an engineer.” 💡
 
 ---
-![image](https://github.com/user-attachments/assets/db9ccc65-9280-4a64-aa0c-67877a737bb6)
+<img src="first_solve_the_problem__then_in_an_elegant_dark_theme.png" width="250" align="center">

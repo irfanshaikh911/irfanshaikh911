@@ -2,8 +2,8 @@
   <img src="Assets\Irfan Shaikh ML Enthusiast  Python Developer  Exploring GenAI, Deep Learning & LLMs (1).png" alt="Irfan Shaikh Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Irfan Shaikh</h1>
-<h3 align="center">🚀 ML Enthusiast | Python Developer | Exploring GenAI, Deep Learning & LLMs</h3>
+<!-- <h1 align="center">Hi 👋, I'm Irfan Shaikh</h1> -->
+<!-- <h3 align="center">🚀 ML Enthusiast | Python Developer | Exploring GenAI, Deep Learning & LLMs</h3> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=irfanshaikh911&label=Profile%20views&color=0e75b6&style=flat" alt="irfanshaikh911" />

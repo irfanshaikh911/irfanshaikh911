@@ -51,15 +51,17 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
+### 🚀 Featured Projects
 
-### 🚀 Latest Projects
-
-- 🌍 **Machine Translation** – Built from scratch using PyTorch Transformer, translating English to Hindi
-- 🖼️ **Image Captioning** – Deep learning model to generate captions from uploaded images using CNN + RNN
-- 💧 **Water Potability Detection (Full Stack)** – ML backend + full web UI for classifying drinkable water
-- 🧾 **Autogradr** – AI-powered auto-grading system with rubric-based scoring, feedback, and teacher review
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Water Potability Detection](https://github.com/irfanshaikh911/Water-Potability) | CI/CD ML app to predict water drinkability using pH, sulfate, etc. | Flask, Docker, MLflow, DagsHub |
+| [Image Captioning](https://github.com/irfanshaikh911/Image-Captioning) | Caption generator trained on Flickr8k using CNN + LSTM + Transformers | PyTorch, Streamlit |
+| [Machine Translation (EN→HI)](https://github.com/irfanshaikh911/Machine-Translation) | Built a Transformer model for English-to-Hindi translation | PyTorch, Streamlit |
+| [Spam Detector (NLP)](https://github.com/irfanshaikh911/Spam-Detection) | Classifier to detect spam SMS using TF-IDF + Naive Bayes | scikit-learn, Streamlit |
 
 ---
+
 
 > “Code like a scientist. Think like an artist. Build like an engineer.” 💡
 
